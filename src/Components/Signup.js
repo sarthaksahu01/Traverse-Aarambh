@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-//use firebase of email : sarthak707172@gmail.com
+//use firebase of email : sarthak01.sahu@gmail.com
 export const Signup = () => {
   // for using useState to store our data
   const [userData, setUserData] = useState({
