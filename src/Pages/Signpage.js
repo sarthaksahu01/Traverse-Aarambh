@@ -1,6 +1,6 @@
 import { Nav } from "../Components/Nav";
 import { Signup } from "../Components/Signup";
-import { LoginPage } from "../Components/LoginPage";
+// import { Login } from "../Components/Login";
 
 import { Footer } from "../Components/Footer";
 
@@ -9,7 +9,7 @@ const Signpage = () => {
     <>
       <Nav />
       <Signup />
-      <LoginPage />
+      {/* <Login /> */}
       <Footer />
     </>
   );

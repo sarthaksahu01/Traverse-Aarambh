@@ -1,4 +1,6 @@
 import { Route, Routes } from "react-router-dom";
+// import firebase from "./firebase";
+
 // import LoginPage from "./Pages/Login";
 // import { ReactDOM } from "react";
 import Dashboard from "./Pages/Dashboard";
@@ -8,6 +10,7 @@ import Signpage from "./Pages/Signpage";
 // import AlumniPage from "./Pages/AlumniPage";
 // import Resources from "./Pages/Resources";
 function App() {
+  // const ref = firebase.firestore().collection("Package");
   return (
     <>
       <Routes>
