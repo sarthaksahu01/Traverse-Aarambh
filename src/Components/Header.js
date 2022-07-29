@@ -26,9 +26,7 @@ export const Header = () => {
               Style
             </h2>
             <p className="text-base text-gray-700 md:text-lg">
-              Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-              accusantium doloremque laudantium, totam rem aperiam, eaque ipsa
-              quae. explicabo.
+            Personalised, well-crafted tour packages for best experiences
             </p>
           </div>
           <form>
