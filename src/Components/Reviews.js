@@ -2,7 +2,7 @@ export const Reviews = () => {
   return (
     <div className="px-4 py-16 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 lg:py-20">
       <div className="mx-auto mb-10 lg:max-w-xl sm:text-center">
-        <p className="inline-block px-3 py-px mb-4 text-xs font-semibold tracking-wider text-teal-900 uppercase rounded-full bg-teal-accent-400">
+        <p className="inline-block px-3 py-px mb-4 text-m font-semibold tracking-wider text-white uppercase rounded-full bg-deep-purple-400">
           Reviews
         </p>
       </div>
@@ -14,10 +14,14 @@ export const Reviews = () => {
             alt="Person"
           />
           <div className="flex flex-col items-center">
-            <p className="text-lg font-bold">Oliver Aguilerra</p>
+            <p className="text-lg font-bold">n</p>
             <p className="text-sm text-gray-1000">Visited: Karnataka</p>
-            <p className="text-sm text-gray-600"><center>★★★★★</center></p>
-            <p className="text-sm text-gray-600"><center>best website for tour booking</center></p>
+            <p className="text-sm text-gray-600">
+              <center>★★★★★</center>
+            </p>
+            <p className="text-sm text-gray-600">
+              <center>best website for tour booking</center>
+            </p>
           </div>
         </div>
         <div className="flex flex-col items-center">
@@ -29,8 +33,14 @@ export const Reviews = () => {
           <div className="flex flex-col items-center">
             <p className="text-lg font-bold">Marta Clermont</p>
             <p className="text-sm text-gray-1000">Visited: Rajasthan</p>
-            <p className="text-sm text-gray-600"><center>★★★★★</center></p>
-            <p className="text-sm text-gray-600"><center>Had a very good time with family enjoying the trip</center></p>
+            <p className="text-sm text-gray-600">
+              <center>★★★★★</center>
+            </p>
+            <p className="text-sm text-gray-600">
+              <center>
+                Had a very good time with family enjoying the trip
+              </center>
+            </p>
           </div>
         </div>
         <div className="flex flex-col items-center">
@@ -42,8 +52,12 @@ export const Reviews = () => {
           <div className="flex flex-col items-center">
             <p className="text-lg font-bold">Anthony Geek</p>
             <p className="text-sm text-gray-1000">Visited: Goa</p>
-            <p className="text-sm text-gray-600"><center>★★★★☆</center></p>
-            <p className="text-sm text-gray-600"><center>Had a very good experience</center></p>
+            <p className="text-sm text-gray-600">
+              <center>★★★★☆</center>
+            </p>
+            <p className="text-sm text-gray-600">
+              <center>Had a very good experience</center>
+            </p>
           </div>
         </div>
         <div className="flex flex-col items-center">
@@ -55,8 +69,12 @@ export const Reviews = () => {
           <div className="flex flex-col items-center">
             <p className="text-lg font-bold">Alice Melbourne</p>
             <p className="text-sm text-gray-800">Visited: Kerala</p>
-            <p className="text-sm text-gray-600"><center>★★★☆☆</center></p>
-            <p className="text-sm text-gray-600"><center>Could be better</center></p>
+            <p className="text-sm text-gray-600">
+              <center>★★★☆☆</center>
+            </p>
+            <p className="text-sm text-gray-600">
+              <center>Could be better</center>
+            </p>
           </div>
         </div>
         <div className="flex flex-col items-center">
@@ -68,8 +86,12 @@ export const Reviews = () => {
           <div className="flex flex-col items-center">
             <p className="text-lg font-bold">Martin Garix</p>
             <p className="text-sm text-gray-1000">Visited: Assam</p>
-            <p className="text-sm text-gray-600"><center>★★★★☆</center></p>
-            <p className="text-sm text-gray-600"><center>Very good website for tours and more</center></p>
+            <p className="text-sm text-gray-600">
+              <center>★★★★☆</center>
+            </p>
+            <p className="text-sm text-gray-600">
+              <center>Very good website for tours and more</center>
+            </p>
           </div>
         </div>
         <div className="flex flex-col items-center">
@@ -81,8 +103,14 @@ export const Reviews = () => {
           <div className="flex flex-col items-center">
             <p className="text-lg font-bold">Andrew Larkin</p>
             <p className="text-sm text-gray-1000">Visited: J&K</p>
-            <p className="text-sm text-gray-600"><center>★★★★☆</center></p>
-            <p className="text-sm text-gray-600"><center>good experience using this app and had a good trip with family</center></p>
+            <p className="text-sm text-gray-600">
+              <center>★★★★☆</center>
+            </p>
+            <p className="text-sm text-gray-600">
+              <center>
+                good experience using this app and had a good trip with family
+              </center>
+            </p>
           </div>
         </div>
         <div className="flex flex-col items-center">
@@ -93,9 +121,15 @@ export const Reviews = () => {
           />
           <div className="flex flex-col items-center">
             <p className="text-lg font-bold">Sophie Denmo</p>
-            <p className="text-sm text-gray-1000">Visited: Andaman and Nicobar</p>
-            <p className="text-sm text-gray-600"><center>★★★★☆</center></p>
-            <p className="text-sm text-gray-600"><center>Really smooth and hassle-free booking.</center></p>
+            <p className="text-sm text-gray-1000">
+              Visited: Andaman and Nicobar
+            </p>
+            <p className="text-sm text-gray-600">
+              <center>★★★★☆</center>
+            </p>
+            <p className="text-sm text-gray-600">
+              <center>Really smooth and hassle-free booking.</center>
+            </p>
           </div>
         </div>
         <div className="flex flex-col items-center">
@@ -107,8 +141,12 @@ export const Reviews = () => {
           <div className="flex flex-col items-center">
             <p className="text-lg font-bold">Benedict Caro</p>
             <p className="text-sm text-gray-1000">Visited: Daman and Diu</p>
-            <p className="text-sm text-gray-600"><center>★★★★☆</center></p>
-            <p className="text-sm text-gray-600"><center>Had a very good experience with Aarambh</center></p>
+            <p className="text-sm text-gray-600">
+              <center>★★★★☆</center>
+            </p>
+            <p className="text-sm text-gray-600">
+              <center>Had a very good experience with Aarambh</center>
+            </p>
           </div>
         </div>
       </div>

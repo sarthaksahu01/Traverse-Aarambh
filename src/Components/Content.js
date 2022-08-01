@@ -5,48 +5,8 @@ export const Content = () => {
     <div className="px-4 py-16 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 lg:py-20">
       <div className="grid gap-10 lg:grid-cols-2">
         <div className="flex flex-col justify-center md:pr-8 xl:pr-0 lg:max-w-lg">
-          <div className="flex items-center justify-center w-16 h-16 mb-4 rounded-full bg-teal-accent-400">
-            <svg className="text-teal-900 w-7 h-7" viewBox="0 0 24 24">
-              <polyline
-                fill="none"
-                stroke="currentColor"
-                strokeWidth="2"
-                strokeLinecap="round"
-                strokeMiterlimit="10"
-                points=" 8,5 8,1 16,1 16,5"
-                strokeLinejoin="round"
-              />
-              <polyline
-                fill="none"
-                stroke="currentColor"
-                strokeWidth="2"
-                strokeLinecap="round"
-                strokeMiterlimit="10"
-                points="9,15 1,15 1,5 23,5 23,15 15,15"
-                strokeLinejoin="round"
-              />
-              <polyline
-                fill="none"
-                stroke="currentColor"
-                strokeWidth="2"
-                strokeLinecap="round"
-                strokeMiterlimit="10"
-                points="22,18 22,23 2,23 2,18"
-                strokeLinejoin="round"
-              />
-              <rect
-                x="9"
-                y="13"
-                fill="none"
-                stroke="currentColor"
-                strokeWidth="2"
-                strokeLinecap="round"
-                strokeMiterlimit="10"
-                width="6"
-                height="4"
-                strokeLinejoin="round"
-              />
-            </svg>
+          <div className="flex items-center justify-center w-16 h-16 mb-4 ">
+            <img src="../../IMAGES/map.png" alt="" />
           </div>
           <div className="max-w-xl mb-6">
             <h2 className="max-w-lg mb-6 font-sans text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl sm:leading-none">
@@ -57,6 +17,14 @@ export const Content = () => {
                 destination
               </span>
             </h2>
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse
+              porro, reprehenderit reiciendis fuga nesciunt recusandae nemo
+              debitis voluptatum perferendis ex ab rerum sed ratione dolore
+              molestias eveniet adipisci suscipit! Tenetur debitis officiis
+              eveniet praesentium asperiores. Labore rem aperiam tempora quia
+              numquam veniam molestiae sed odit!
+            </p>
           </div>
           <div>
             <Link

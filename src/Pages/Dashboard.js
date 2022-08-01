@@ -2,16 +2,18 @@ import { Nav } from "../Components/Nav";
 import { Header } from "../Components/Header";
 import { Reviews } from "../Components/Reviews";
 import { Content } from "../Components/Content";
-import { Statistic } from "../Components/Statistics";
 import { Footer } from "../Components/Footer";
+import { Stats } from "../Components/Stats";
+
 export default function Dashboard() {
   return (
     <>
       <Nav />
       <Header />
-      <Statistic />
+      <Stats />
       <Content />
       <Reviews />
+
       <Footer />
     </>
   );

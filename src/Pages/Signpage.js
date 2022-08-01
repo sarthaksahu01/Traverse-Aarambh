@@ -9,7 +9,7 @@ const Signpage = () => {
     <>
       <Nav />
       <Signup />
-      {/* <Login /> */}
+
       <Footer />
     </>
   );

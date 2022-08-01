@@ -7,6 +7,8 @@ import Dashboard from "./Pages/Dashboard";
 import Tours from "./Pages/Tours";
 import Services from "./Pages/Services";
 import Signpage from "./Pages/Signpage";
+import Sign from "./Pages/Sign";
+
 // import AlumniPage from "./Pages/AlumniPage";
 // import Resources from "./Pages/Resources";
 function App() {
@@ -19,6 +21,7 @@ function App() {
         <Route exact path="/Tours" element={<Tours />} />
         <Route exact path="/Signpage" element={<Signpage />} />
         <Route exact path="/Services" element={<Services />} />
+        <Route exact path="/Sign" element={<Sign />} />
         {/* {/* <Route exact path = "/Alumni" element = {<AlumniPage/>} /> */}
         {/* <Route exact path="/Resources" element={<Resources />} /> */}
       </Routes>

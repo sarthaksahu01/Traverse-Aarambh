@@ -30,7 +30,11 @@ export const Footer = () => {
           </a>
           <div className="mt-6 lg:max-w-sm">
             <p className="text-sm text-gray-800">
-            Personalised, well-crafted tour packages for best experiences
+              Personalised, well-crafted tour packages for best experiences
+              Lorem ipsum dolor sit, amet consectetur adipisicing elit.
+              Laboriosam magnam impedit asperiores pariatur consequatur aliquid
+              possimus minima, deleniti inventore perspiciatis? Sed quam non
+              facilis fuga quas quae, tempora in eligendi.
             </p>
           </div>
         </div>
@@ -70,7 +74,8 @@ export const Footer = () => {
               title="Our address"
               className="transition-colors duration-300 text-deep-purple-accent-400 hover:text-deep-purple-800"
             >
-              Shavige Malleshwara Hills, 91st Main Rd, 1st Stage, Kumaraswamy Layout, Bengaluru, Karnataka 560078
+              Shavige Malleshwara Hills, 91st Main Rd, 1st Stage, Kumaraswamy
+              Layout, Bengaluru, Karnataka 560078
             </a>
           </div>
         </div>

@@ -9,7 +9,6 @@ const Services = () => {
   return (
     <>
       <Nav />
-
       <FAQs />
       <Reviews />
       <Footer />

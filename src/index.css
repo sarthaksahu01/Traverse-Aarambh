@@ -19,3 +19,15 @@ code {
 #bro {
   margin: 50px 153px;
 }
+
+#connected_world {
+  height: 500px;
+}
+
+#header_description {
+  padding-left: 45px;
+}
+
+#signIn_image {
+  height: 700px;
+}
