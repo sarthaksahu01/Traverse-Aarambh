@@ -215,28 +215,6 @@ export const Signup = () => {
                   </div>
 
                   <div className=""></div>
-                  <div>
-                    <label
-                      htmlFor="about"
-                      className="block text-sm font-medium text-gray-700"
-                    >
-                      About You
-                    </label>
-                    <div className="mt-1">
-                      <textarea
-                        name="About"
-                        rows={3}
-                        className="shadow-sm focus:ring-indigo-500 focus:border-indigo-500 mt-1 block w-full sm:text-sm border border-gray-300 rounded-md"
-                        placeholder="you@example.com"
-                        value={userData.About}
-                        onChange={postUserData}
-                        defaultValue={""}
-                      />
-                    </div>
-                    <p className="mt-2 text-sm text-gray-500">
-                      Brief description for your profile. URLs are hyperlinked.
-                    </p>
-                  </div>
                 </div>
                 <div className="px-4 py-3 bg-gray-50 text-right sm:px-6">
                   <button
@@ -260,7 +238,7 @@ export const Signup = () => {
       </div>
 
       <div className="mt-10 sm:mt-0">
-        <div className="md:grid md:grid-cols-3 md:gap-6" id="bro">
+        {/*<div className="md:grid md:grid-cols-3 md:gap-6" id="bro">
           <div className="md:col-span-1">
             <div className="px-4 sm:px-0">
               <h3 className="text-lg font-medium leading-6 text-gray-900">
@@ -393,7 +371,7 @@ export const Signup = () => {
               </div>
             </form>
           </div>
-        </div>
+  </div>*/}
       </div>
     </>
   );
