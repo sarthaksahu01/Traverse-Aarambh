@@ -10,11 +10,6 @@ export const Tour = () => {
           <div className="h-1 ml-auto duration-300 origin-left transform bg-deep-purple-accent-400 scale-x-30 group-hover:scale-x-100" />
         </h2>
         <p className="text-gray-700 lg:text-sm lg:max-w-md">
-          "Class is dead", says Foucault; however, according to Reicher, it is
-          not so much class that is dead, but rather the absurdity, and some
-          would say the paradigm, of class. However, the subject is interpolated
-          into a postpatriarchialist dialectic theory that includes
-          consciousness as a totality.
         </p>
       </div>
       <div className="grid gap-6 row-gap-5 mb-8 lg:grid-cols-4 sm:row-gap-6 sm:grid-cols-2">
@@ -90,7 +85,6 @@ export const Tour = () => {
             </div>
           </div>
         </a>
-        <a></a>
         <a href="/" aria-label="View Item">
           <div className="relative overflow-hidden transition duration-200 transform rounded shadow-lg hover:-translate-y-2 hover:shadow-2xl">
             <img
@@ -121,6 +115,41 @@ export const Tour = () => {
               Soothing beauty, offbeat tourists attractions, spiritual ambiance, the sacred river, humble people, and zealous culture,
               Assam boasts plenty of fascinating secrets. Being one of the Northeast India’s iconic seven sisters, 
               a holiday in Assam is about witnessing a heady mix of history, culture, and nature at the same time.
+              </p>
+            </div>
+          </div>
+        </a>
+        <a href="/" aria-label="View Item">
+          <div className="relative overflow-hidden transition duration-200 transform rounded shadow-lg hover:-translate-y-2 hover:shadow-2xl">
+            <img
+              className="object-cover w-full h-56 md:h-64 xl:h-80"
+              src="../../IMAGES/Daman.jpg"
+              alt=""
+            />
+            <div className="absolute inset-0 px-6 py-4 transition-opacity duration-200 bg-black bg-opacity-75 opacity-0 hover:opacity-100">
+              <p className="mb-4 text-lg font-bold text-gray-100">Daman & Diu</p>
+              <p className="text-sm tracking-wide text-gray-300">
+              Plan a trip to Daman and Diu if you want to have a good time.
+               Daman and Diu is the union territory of India located in the western part of it. 
+               These two regions are separated by each other by the Gulf of Khambhat. 
+               It offers several opportunities for leisure, along with some adventure thrown in between.
+              </p>
+            </div>
+          </div>
+        </a>
+        <a href="/" aria-label="View Item">
+          <div className="relative overflow-hidden transition duration-200 transform rounded shadow-lg hover:-translate-y-2 hover:shadow-2xl">
+            <img
+              className="object-cover w-full h-56 md:h-64 xl:h-80"
+              src="../../IMAGES/andaman.jpg"
+              alt=""
+            />
+            <div className="absolute inset-0 px-6 py-4 transition-opacity duration-200 bg-black bg-opacity-75 opacity-0 hover:opacity-100">
+              <p className="mb-4 text-lg font-bold text-gray-100">ANDAMAN & NICOBAR</p>
+              <p className="text-sm tracking-wide text-gray-300">
+              One of the union territories of India, Andaman and Nicobar Islands is a breathtaking archipelago located in the Bay of Bengal.
+              The exotic beaches blessed with coral reefs and amazing marine life making the landscape breathtakingly exquisite, 
+              cater a perfect beach holiday away from the hustle and bustle of the city life.
               </p>
             </div>
           </div>

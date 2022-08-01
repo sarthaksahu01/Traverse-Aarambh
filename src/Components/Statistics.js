@@ -23,10 +23,10 @@ export const Statistic = () => {
                 </svg>
               </div>
             </div>
-            <p className="mb-2 font-bold md:text-lg">Alumni</p>
-            <p className="text-gray-700">
+            <p className="mb-2 font-bold md:text-lg">Happy customers</p>
+            {/*<p className="text-gray-700">
               Number of Alumni that are working professionals in leading industries.
-            </p>
+            </p>*/}
           </div>
           <div>
             <div className="flex">
@@ -49,10 +49,10 @@ export const Statistic = () => {
                 </svg>
               </div>
             </div>
-            <p className="mb-2 font-bold md:text-lg">Students</p>
-            <p className="text-gray-700">
+            <p className="mb-2 font-bold md:text-lg">destinations</p>
+            {/*<p className="text-gray-700">
               Have already connected with alumni's.
-            </p>
+          </p>*/}
           </div>
           <div>
             <div className="flex">
@@ -75,10 +75,10 @@ export const Statistic = () => {
                 </svg>
               </div>
             </div>
-            <p className="mb-2 font-bold md:text-lg">Talks</p>
-            <p className="text-gray-700">
+            <p className="mb-2 font-bold md:text-lg">Reviews</p>
+            {/*<p className="text-gray-700">
               Guidance given by Alumni to students.
-            </p>
+            </p>*/}
           </div>
         </div>
       </div>
