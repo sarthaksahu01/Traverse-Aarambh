@@ -8,6 +8,8 @@ import Tours from "./Pages/Tours";
 import Services from "./Pages/Services";
 import Signpage from "./Pages/Signpage";
 import Sign from "./Pages/Sign";
+import Packageis from "./Pages/Packageis";
+import Review_tour from "./Pages/Review_tour";
 
 // import AlumniPage from "./Pages/AlumniPage";
 // import Resources from "./Pages/Resources";
@@ -22,6 +24,9 @@ function App() {
         <Route exact path="/Signpage" element={<Signpage />} />
         <Route exact path="/Services" element={<Services />} />
         <Route exact path="/Sign" element={<Sign />} />
+        <Route exact path="/Packageis" element={<Packageis />} />
+        <Route exact path="/Review_tour" element={<Review_tour />} />
+
         {/* {/* <Route exact path = "/Alumni" element = {<AlumniPage/>} /> */}
         {/* <Route exact path="/Resources" element={<Resources />} /> */}
       </Routes>
