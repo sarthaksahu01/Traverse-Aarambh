@@ -14,13 +14,12 @@ export const Tour = () => {
         <p className="text-gray-700 lg:text-sm lg:max-w-md"></p>
       </div>
       <div className="grid gap-6 row-gap-5 mb-8 lg:grid-cols-4 sm:row-gap-6 sm:grid-cols-2">
-      <Link
-              to="/Packageis"
-              aria-label="C"
-              title="Packageis"
-              className="font-medium tracking-wide text-gray-700 transition-colors duration-200 hover:text-deep-purple-accent-400"
-            >
-
+        <Link
+          to="/Tours/Jammu&Kashmir"
+          aria-label="C"
+          title="Packageis"
+          className="font-medium tracking-wide text-gray-700 transition-colors duration-200 hover:text-deep-purple-accent-400"
+        >
           <div className="relative overflow-hidden transition duration-200 transform rounded shadow-lg hover:-translate-y-2 hover:shadow-2xl">
             <img
               className="object-cover w-full h-56 md:h-64 xl:h-80"
@@ -43,11 +42,11 @@ export const Tour = () => {
           </div>
         </Link>
         <Link
-              to="/Packageis"
-              aria-label="C"
-              title="Packageis"
-              className="font-medium tracking-wide text-gray-700 transition-colors duration-200 hover:text-deep-purple-accent-400"
-            >
+          to="/Tours/Kerela"
+          aria-label="C"
+          title="Packageis"
+          className="font-medium tracking-wide text-gray-700 transition-colors duration-200 hover:text-deep-purple-accent-400"
+        >
           <div className="relative overflow-hidden transition duration-200 transform rounded shadow-lg hover:-translate-y-2 hover:shadow-2xl">
             <img
               className="object-cover w-full h-56 md:h-64 xl:h-80"
@@ -68,11 +67,11 @@ export const Tour = () => {
           </div>
         </Link>
         <Link
-              to="/Packageis"
-              aria-label="C"
-              title="Packageis"
-              className="font-medium tracking-wide text-gray-700 transition-colors duration-200 hover:text-deep-purple-accent-400"
-            >
+          to="/Tours/Karnataka"
+          aria-label="C"
+          title="Packageis"
+          className="font-medium tracking-wide text-gray-700 transition-colors duration-200 hover:text-deep-purple-accent-400"
+        >
           <div className="relative overflow-hidden transition duration-200 transform rounded shadow-lg hover:-translate-y-2 hover:shadow-2xl">
             <img
               className="object-cover w-full h-56 md:h-64 xl:h-80"
@@ -93,11 +92,11 @@ export const Tour = () => {
           </div>
         </Link>
         <Link
-              to="/Packageis"
-              aria-label="C"
-              title="Packageis"
-              className="font-medium tracking-wide text-gray-700 transition-colors duration-200 hover:text-deep-purple-accent-400"
-            >
+          to="/Tours/Rajasthan"
+          aria-label="C"
+          title="Packageis"
+          className="font-medium tracking-wide text-gray-700 transition-colors duration-200 hover:text-deep-purple-accent-400"
+        >
           <div className="relative overflow-hidden transition duration-200 transform rounded shadow-lg hover:-translate-y-2 hover:shadow-2xl">
             <img
               className="object-cover w-full h-56 md:h-64 xl:h-80"
@@ -117,11 +116,11 @@ export const Tour = () => {
           </div>
         </Link>
         <Link
-              to="/Packageis"
-              aria-label="C"
-              title="Packageis"
-              className="font-medium tracking-wide text-gray-700 transition-colors duration-200 hover:text-deep-purple-accent-400"
-            >
+          to="/Tours/Goa"
+          aria-label="C"
+          title="Packageis"
+          className="font-medium tracking-wide text-gray-700 transition-colors duration-200 hover:text-deep-purple-accent-400"
+        >
           <div className="relative overflow-hidden transition duration-200 transform rounded shadow-lg hover:-translate-y-2 hover:shadow-2xl">
             <img
               className="object-cover w-full h-56 md:h-64 xl:h-80"
@@ -140,11 +139,11 @@ export const Tour = () => {
           </div>
         </Link>
         <Link
-              to="/Packageis"
-              aria-label="C"
-              title="Packageis"
-              className="font-medium tracking-wide text-gray-700 transition-colors duration-200 hover:text-deep-purple-accent-400"
-            >
+          to="/Tours/Assam"
+          aria-label="C"
+          title="Packageis"
+          className="font-medium tracking-wide text-gray-700 transition-colors duration-200 hover:text-deep-purple-accent-400"
+        >
           <div className="relative overflow-hidden transition duration-200 transform rounded shadow-lg hover:-translate-y-2 hover:shadow-2xl">
             <img
               className="object-cover w-full h-56 md:h-64 xl:h-80"
@@ -165,11 +164,11 @@ export const Tour = () => {
           </div>
         </Link>
         <Link
-              to="/Packageis"
-              aria-label="C"
-              title="Packageis"
-              className="font-medium tracking-wide text-gray-700 transition-colors duration-200 hover:text-deep-purple-accent-400"
-            >
+          to="/Tours/Daman&Dau"
+          aria-label="C"
+          title="Packageis"
+          className="font-medium tracking-wide text-gray-700 transition-colors duration-200 hover:text-deep-purple-accent-400"
+        >
           <div className="relative overflow-hidden transition duration-200 transform rounded shadow-lg hover:-translate-y-2 hover:shadow-2xl">
             <img
               className="object-cover w-full h-56 md:h-64 xl:h-80"
@@ -191,11 +190,11 @@ export const Tour = () => {
           </div>
         </Link>
         <Link
-              to="/Packageis"
-              aria-label="C"
-              title="Packageis"
-              className="font-medium tracking-wide text-gray-700 transition-colors duration-200 hover:text-deep-purple-accent-400"
-            >
+          to="/Tours/Andaman&Nicobar"
+          aria-label="C"
+          title="Packageis"
+          className="font-medium tracking-wide text-gray-700 transition-colors duration-200 hover:text-deep-purple-accent-400"
+        >
           <div className="relative overflow-hidden transition duration-200 transform rounded shadow-lg hover:-translate-y-2 hover:shadow-2xl">
             <img
               className="object-cover w-full h-56 md:h-64 xl:h-80"

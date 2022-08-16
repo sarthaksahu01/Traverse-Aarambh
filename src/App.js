@@ -21,6 +21,7 @@ function App() {
         {/* <Route exact path="/" element={<LoginPage />} /> */}
         <Route exact path="/" element={<Dashboard />} />
         <Route exact path="/Tours" element={<Tours />} />
+        <Route exact path="/Tours/:place" element={<Packageis />} />
         <Route exact path="/Signpage" element={<Signpage />} />
         <Route exact path="/Services" element={<Services />} />
         <Route exact path="/Sign" element={<Sign />} />
